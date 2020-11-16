@@ -1,0 +1,12 @@
+{
+  "name": "encryption-client-app",
+  "displayName": "encryption-client-app",
+  "expo": {
+    "name": "encryption-client-app",
+    "slug": "encryption-client-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
