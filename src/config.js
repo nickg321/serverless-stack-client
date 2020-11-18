@@ -1,4 +1,4 @@
-const config = {
+export default {
   s3: {
     REGION: 'us-east-2',
     BUCKET: 'notes-app-upload-test1234',
