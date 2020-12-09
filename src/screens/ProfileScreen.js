@@ -11,6 +11,12 @@ const ProfileScreen = ({ navigation }) => {
       >
         <Text style={{ color: 'white' }}>Upload</Text>
       </TouchableOpacity>
+      <TouchableOpacity
+        style={styles.buttonStyle}
+        onPress={() => navigation.navigate('Settings')}
+      >
+        <Text style={{ color: 'white' }}>Settings</Text>
+      </TouchableOpacity>
     </View>
   );
 };
